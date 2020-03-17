@@ -1,11 +1,11 @@
 # ConvertisseurTile<a href="https://github.com/VincentSinel"><img align="right" src="https://raw.githubusercontent.com/VincentSinel/Image/master/Icone.png" width="233" style="margin:0px 30px" alt="VS Programme"></a>
 
-Logiciel permettant de convertir des tiles de rpg maker vx et vx ace en image avec des tile 32*32 pixel.
-Une fois le logiciel lancée choisir le type de tile puis selectionner l'image correspondante
+Logiciel permettant de convertir des tiles de rpg maker vx et vx ace en images avec des tiles 32*32 pixels.
+Une fois le logiciel lancé choisir le type de tile puis sélectionner l'image correspondante.
 
 ## Installation
 
-Aucune installation nécessaire le logiciel peut-être lancé depuis n'importe quelle clé USB
+Aucune installation nécessaire, le logiciel peut-être lancé depuis n'importe quelle clé USB.
 
 ## Librairie
 
